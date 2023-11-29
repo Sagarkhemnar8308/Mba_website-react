@@ -1,0 +1,612 @@
+ .Back {
+    background-image: url(../assets/images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+
+ .Master {
+    font-size: 70px;
+    font-weight: 700;
+    color: aliceblue;
+    margin-top: 12%;
+ }
+
+ .Admissions {
+    color: rgb(156, 38, 38);
+    font-size: 25px;
+ }
+
+ .Main {
+    padding-left: 7%;
+    padding-top: 7%;
+ }
+
+ .Box {
+    height: 600px;
+    width: 80%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 40px;
+    margin-top: 10%;
+
+ }
+
+ .Enquire {
+    background-color: red;
+    height: 50px;
+    border-radius: 40px 40px 0px 0px;
+
+
+ }
+
+ .inp {
+    border: none;
+    border-bottom: 1px solid black;
+    height: 40px;
+    width: 90%;
+    /* margin-left: 4%; */
+    margin-top: 15px;
+ }
+
+ .inpt1 {
+    border: none;
+    border-bottom: 1px solid black;
+    margin-left: 6%;
+    width: 42%;
+    height: 40px;
+    margin-top: 15px;
+
+ }
+
+ .mob {
+    width: 50px;
+    /* margin-left: 6%; */
+    text-align: left;
+    border: none;
+    border-bottom: 1px solid black;
+    height: 40px;
+ }
+
+ .mob_no {
+    border: none;
+    border-bottom: 1px solid black;
+    height: 40px;
+    width: 78%;
+    margin-top: 15px;
+ }
+
+ .inpt {
+    border: none;
+    border-bottom: 1px solid black;
+    /* margin-left: 4%; */
+    width: 42%;
+    height: 40px;
+    /* margin-top: 15px; */
+
+ }
+
+ .Dual {
+    padding-left: 6%;
+ }
+
+ .check {
+
+    margin-top: 20px;
+ }
+
+ .agree {
+    font-size: 15px;
+    margin-left: 10px;
+    margin-right: 8px;
+ }
+
+ .but {
+    border-radius: 30px;
+    width: 35%;
+    height: 45px;
+    margin-top: 8%;
+    background-color: rgb(202, 17, 17);
+    border: none;
+ }
+
+
+
+ .Apply {
+
+    height: 17vh;
+    text-align: center;
+    padding-top: px;
+    margin-top: 2%;
+
+
+ }
+
+ .Date {
+    font-size: 25px;
+    color: rgb(36, 36, 110);
+    font-weight: 700;
+    padding-top: 10%;
+
+ }
+
+ .two {
+    font-size: 70px;
+    font-weight: 700;
+    color: rgb(202, 17, 17);
+    padding-top: 5%;
+    /* padding-left: 20px; */
+
+ }
+
+ .feb {
+    padding-top: 22%;
+    color: rgb(202, 17, 17);
+
+
+ }
+
+ .margin {
+    padding-top: 10%;
+ }
+
+ .horizontal {
+    margin-left: 20%;
+    margin-right: 20%;
+    border: 2px solid grey;
+ }
+
+ .para {
+    font-size: 20px;
+    text-align: center;
+ }
+
+ .Package {
+    font-size: 32px;
+    font-weight: 500;
+    color: aliceblue;
+
+ }
+
+ .color {
+    background-color: rgb(204, 32, 84);
+
+ }
+
+ .inr {
+    color: bisque;
+ }
+
+ .special {
+    font-size: 45px;
+    padding-left: 5%;
+    /* margin-top: 10%; */
+ }
+
+ .special-pad {
+    padding-top: 5%;
+ }
+
+ .global {
+    color: gray;
+ }
+
+ .line {
+    width: 3px;
+ }
+
+ .marg {
+    padding-left: 15%;
+    padding-top: 10%;
+ 
+ }
+
+ .market {
+    padding-top: 10%;
+    margin-left: 5%;
+    /* margin-right: 5%; */
+ }
+
+ .title {
+    font-size: 28px;
+ }
+
+
+ .mit-wpu {
+    color: rgb(71, 71, 131);
+    font-size: 38px;
+    font-weight: 600;
+ }
+
+ .paragraph {
+    padding-bottom: 10%;
+ }
+
+ .lines {
+    border: 1px solid rgb(52, 52, 121);
+    
+ 
+
+
+ }
+
+ .hrr {
+    margin-left: 15%;
+ }
+
+ .core {
+    padding-left: 5%;
+    font-size: 18px;
+ }
+
+ .Corporate {
+    margin-top: 5%;
+ }
+
+ .place {
+    font-size: 80px;
+    font-weight: 700;
+    padding-left: 1%;
+    /* line-height: 70px; */
+ }
+
+ .line_height {
+    line-height: 80px;
+ }
+
+ .for {
+    padding-left: 1%;
+    font-size: 27px;
+ }
+
+ .pack {
+    font-size: 80px;
+    font-weight: 700;
+ }
+
+ .height {
+    line-height: 50px;
+    padding-top: 50%;
+    margin-bottom: 40%;
+ }
+
+ .year {
+    /* width: 5px; */
+    color: rgb(202, 17, 17);
+    font-size: 25px;
+    float: right;
+    line-height: 30px;
+    padding-right: 20%;
+
+ }
+
+ .selector {
+    width: 60px;
+    margin-left: 5%;
+    border: none;
+ }
+
+
+ /* carousel */
+
+ .carousel-caption {
+    position: absolute;
+    top: 58%;
+    bottom: 1.25rem;
+    left: 8%;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    font-size: 25px;
+ }
+
+ .carousel-heading {
+    text-align: left;
+    font: normal normal normal 67px/70px Gilroy-Heavy;
+    letter-spacing: 1.34px;
+    color: #FFFFFF;
+    opacity: 1;
+ }
+
+ .carousel-subheading {
+    text-align: left;
+    font: normal normal normal 40px/50px Gilroy-Medium;
+    letter-spacing: 0.8px;
+    color: #FFFFFF;
+    opacity: 1;
+ }
+
+ .Fees {
+    padding-left: 10%;
+    padding-top: 10%;
+ }
+
+ .fees-font {
+    font-size: 70px;
+ }
+
+ .four {
+    font-size: 60px;
+    font-weight: 600px;
+    color: rgb(202, 17, 17);
+    ;
+ }
+
+ .icon {
+    float: right;
+ }
+
+ .placement {
+    padding-left: 5%;
+    padding-top: 5%;
+    background-image: url(../assets/images/bg-remove.png);
+    background-size: cover;
+
+ }
+
+
+ .Elgiblity-pad {
+    padding-top: 10%;
+ }
+
+ .criteria {
+    font-size: 38px;
+    padding-left: 16%;
+ }
+
+ .High {
+    font-size: 36px;
+ }
+
+ .Some {
+    font-size: 40px;
+    margin-top: 10%;
+ }
+
+
+
+ /* =======================  DATE2  =========================== */
+
+ .flex {
+    display: flex;
+ }
+
+ .course {
+    color: #22356F;
+    font-weight: 800;
+ }
+
+ .vl2 {
+    border: 2px solid #22356F;
+    height: 18vh;
+    margin-left: 40px;
+ }
+
+ .Two {
+    font-size: 57px;
+    color: #D62831;
+    font-weight: 700;
+ }
+
+ .Year {
+    font-size: 24px;
+    color: #D62831;
+    font-weight: 700;
+    line-height: 0.2cm;
+ }
+
+ .border_hr {
+    border-bottom: 4px solid #22356F;
+    margin-top: 3%;
+    width: 360px;
+    margin-left: -3%;
+ }
+
+ .yr2 {
+    padding-left: 38px;
+    padding-top: 40px;
+ }
+       /* POPUP BOX */
+ .popup-box {
+   position: fixed;
+   background: #00000050;
+   width: 100%;
+   height: 100vh;
+   top: 0;
+   left: 0;
+   z-index: 99;
+ }
+ .text-font{
+   font-size: 20px;
+ }
+ 
+ 
+ /* ----------------------------------------------------------------   */
+
+
+ @media (min-width:320px) and (max-width:768px) {
+    .market {
+       padding-top: 4%;
+       margin-left: 5%;
+       margin-right: 5%;
+    }
+
+    .Master {
+       font-size: 28px;
+    }
+
+    .Main {
+       padding-left: 0%;
+    }
+
+    .Apply {
+       border-radius: 20px;
+       height: 70vh;
+    }
+
+    .Box {
+       width: 100%;
+       border-radius: 40px;
+    }
+
+    .Date {
+       font-size: 15px;
+       font-weight: 700;
+       padding-top: 0%;
+    }
+
+    .two {
+       font-size: 50px;
+       font-weight: 700;
+       padding-top: 0%;
+       padding-left: 0px;
+    }
+
+    .feb {
+       padding-top: 22%;
+    }
+
+    .Main {
+       padding-left: 2%;
+       padding-top: 0%;
+    }
+
+    .special {
+       font-size: 35px;
+    }
+
+    .marg {
+       padding-left: 2%;
+       padding-top: 5%;
+    }
+
+    .market {
+       padding-top: 5%;
+       margin-left: 2%;
+    }
+
+    .placement {
+       padding-left: 0%;
+       margin-top: 10%;
+    }
+
+    .place {
+       font-size: 30px;
+       font-weight: 700;
+       padding-left: 1%;
+    }
+
+    .Admissions {
+
+       font-size: 20px;
+    }
+
+    .pack {
+       font-size: 50px;
+    }
+
+    .mit-wpu {
+       font-size: 28px;
+    }
+
+    .horizontal {
+       margin-left: 10%;
+       margin-right: 10%;
+    }
+
+    .Package {
+       font-size: 20px;
+    }
+
+    .para {
+       font-size: 15px;
+    }
+
+    .title {
+       font-size: 25px;
+    }
+
+    .criteria {
+       font-size: 28px;
+       padding-left: 5%;
+    }
+
+    .for {
+       font-size: 15px;
+    }
+
+    .pack {
+       font-size: 40px;
+    }
+
+    .High {
+       font-size: 20px;
+    }
+
+    .Some {
+       font-size: 30px;
+    }
+
+    .line_height {
+       line-height: 40px;
+    }
+
+    .fees-font {
+       font-size: 40px;
+    }
+
+    .Fees {
+       padding-left: 2%;
+       padding-top: 5%;
+    }
+
+    .height {
+       line-height: 40px;
+       padding-top: 10%;
+       margin-bottom: 40%;
+    }
+
+    .year {
+       font-size: 20px;
+       float: right;
+       line-height: 25px;
+       padding-right: 10%;
+    }
+
+
+ }
+
+ @media(min-width:768px)and(max-width:1024) {
+
+    .marg {
+       padding-left: 6%;
+       padding-top: 4%;
+       padding-right: 5%;
+    }
+
+    .place {
+       font-size: 40px;
+       font-weight: 700;
+    }
+
+    .inp {
+       height: 20px;
+       width: 88%;
+       margin-left: 4%;
+       margin-top: 15px;
+    }
+
+    .inpt {
+
+
+       margin-left: 4%;
+       width: 20%;
+       margin-top: 15px;
+
+    }
+ }
+
+ @media(min-width:600px)and(max-width:768px) {
+    .Apply {
+       border-radius: 20px;
+       height: 35vh;
+       margin-top: 0;
+    }
+ }
